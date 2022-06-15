@@ -1,9 +1,9 @@
-import React from 'react'
+// import React from 'react'
 
-const ListTable = () => {
-  return (
-    <div>ListTable</div>
-  )
-}
+// const ListTable = () => {
+//   return (
+//     <div>ListTable</div>
+//   )
+// }
 
-export default ListTable
+// export default ListTable
